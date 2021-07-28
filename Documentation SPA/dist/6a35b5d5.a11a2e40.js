@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{96:function(a){a.exports=JSON.parse('{"allTagsPath":"/get-started/blog/tags","slug":"redhat","name":"redhat","count":13,"permalink":"/get-started/blog/tags/redhat"}')}}]);
